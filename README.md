@@ -47,10 +47,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+   [https://www.w3schools.com/,https://developer.mozilla.org/en-US/docs/Web/JavaScript]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+   [I have had previous experience in building projects with html,css and Javascript, since the purpose of this project was to introduce us to the basics of these languages, it was really refreshing to go through and create a solid foundation. However,one of the challenge that I encountered was creating the guess function, I followed the logic presented but unfortunately I was using a for loop that was not required, I tried to look through other resources like w3school.com and Web MDN could not get it to work right, my last resort was to check the solution provided and the only thing I was supposed to remove was the loop.
+   Another problem that I faced was when converting video to gif using EZgif.com, my video could not be converted and it was taking a lot of time to upload even though I had a very short video, so what I did to overcome this problem was to search for other similar free gif converters, and luckily, I found a chrome extension called "Screencastify Record" that is lightweight, user friendly and lets you records a video and instantly converts to gif]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
    [YOUR ANSWER HERE]

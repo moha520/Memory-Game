@@ -47,25 +47,27 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [https://www.w3schools.com/,https://developer.mozilla.org/en-US/docs/Web/JavaScript]
+   [https://www.w3schools.com/,https://developer.mozilla.org/en-US/docs/Web/JavaScript,Screencastify Record]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    [I have had previous experience in building projects with html,css and Javascript, since the purpose of this project was to introduce us to the basics of these languages, it was really refreshing to go through and create a solid foundation. However,one of the challenge that I encountered was creating the guess function, I followed the logic presented but unfortunately I was using a for loop that was not required, I tried to look through other resources like w3school.com and Web MDN could not get it to work right, my last resort was to check the solution provided and the only thing I was supposed to remove was the loop.
-   Another problem that I faced was when converting video to gif using EZgif.com, my video could not be converted and it was taking a lot of time to upload even though I had a very short video, so what I did to overcome this problem was to search for other similar free gif converters, and luckily, I found a chrome extension called "Screencastify Record" that is lightweight, user friendly and lets you records a video and instantly converts to gif]
+   Another problem that I faced was when converting video to gif using EZgif.com, my video could not be converted and it was taking a lot of time to upload even though I had a very short video, so what I did to overcome this problem was to search for other similar free gif converters, and luckily, I found a chrome extension called "Screencastify Record" that is lightweight, user friendly and lets you records a video and instantly converts to gif.
+   ]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [As previously stated that I have had some experience building my own projects while follwoing tutorials online, I haven't fully grasped how and when does one decide to use JavaScript over CSS? I can see that there are so many built in functions in JavaScript are there specific functions that a beginner should focus on?
+   Am also curious to learn about the backend, how does frontend send and recieve data from the database? I would also love to learn about Application Programming Interface(API) and microservices. I can see an increase on Artificial Intelligence and machine learning that are building websites, do you think websites like wix will cause the human web developer to be rendered jobless in the near future?]]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   [I would have spent on adding the optional features like Speed up the clue playback on each turn to make the game harder as it goes on. Add an toggle button to change the background theme.]
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/456dd4de0c9e4472813d6a2fb162b4a9)
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Hassan Ali]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
